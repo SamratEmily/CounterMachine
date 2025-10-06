@@ -10,8 +10,7 @@ A simple and beautiful web-based timer that counts up to a target number you def
 
 ### 📸 Demo
 
-![Timer Machine Screenshot](screenshot.png)
-*(Optional: Add a screenshot or GIF of your timer here.)*
+<img width="824" height="538" alt="Screenshot 2025-10-06 at 5 39 00 PM" src="https://github.com/user-attachments/assets/b8adf169-70d0-4d80-9988-7bceecbdc76c" />
 
 ---
 
