@@ -28,7 +28,7 @@ A simple and beautiful web-based timer that counts up to a target number you def
 
 ```
 .
-├── index.html         # Main HTML file
+├── counter.html         # Main HTML file
 ├── style.css          # Stylesheet (external)
 ├── counter.js         # JavaScript logic
 └── README.md          # This file
