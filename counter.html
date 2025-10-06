@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Timer Machine</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- jQuery (optional but included in your original) -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  </head>
+
+  <body>
+    <div class="timer-container">
+      <h2>Timer Machine</h2>
+      <div class="display">
+        <span id="counter">0</span>
+      </div>
+
+      <div class="input-group">
+        <input type="number" id="target" placeholder="Enter target..." min="1" />
+        <button id="start">Start</button>
+      </div>
+
+      <p id="message" class="message"></p>
+    </div>
+
+    <!-- External JS -->
+    <script src="counter.js"></script>
+  </body>
+</html>
